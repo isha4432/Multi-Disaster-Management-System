@@ -178,8 +178,6 @@ These enhancements depend on implementing and validating the required integratio
 
 GitHub: [isha4432](https://github.com/isha4432)
 
-LinkedIn: [Isha Rehman Mahammad](https://www.linkedin.com/in/isha-rehman-mahammad-0719b22b9/)
-
 ## 📄 License
 
 Choose a suitable open-source license before distributing the project. For example, the MIT License can be used if you want to permit reuse under its terms and you have the rights to license all included components.
